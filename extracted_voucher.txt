@@ -1,0 +1,25 @@
+New_Voucher 1
+id:2
+voucherStartDate:2025-06-01
+voucherEndDate:2025-06-30
+saleCode:NWC_AFF_Buy2LgetS
+New_Voucher 2
+id:35
+voucherStartDate:2025-06-15
+voucherEndDate:2025-06-30
+saleCode:NWDC.AFF_FreeCPTT/PhinDI
+New_Voucher 3
+id:3
+voucherStartDate:2025-06-01
+voucherEndDate:2025-06-30
+saleCode:NWDC.AFF_35KOFF135K
+New_Voucher 4
+id:1
+voucherStartDate:2025-06-01
+voucherEndDate:2025-06-30
+saleCode:NWC_AFF_Buy3MLgetS
+New_Voucher 5
+id:38
+voucherStartDate:2025-06-15
+voucherEndDate:2025-06-30
+saleCode:NWDC.AFF_15KOFF115K
